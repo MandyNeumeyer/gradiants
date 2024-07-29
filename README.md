@@ -2,7 +2,7 @@
 
 ## :cartwheeling: Übung
 
-# Erstelle zwei verschiedene Flaggen die japanische Flagge und die deutsche Flagge — nur mit CSS-Gradients.
+### Erstelle zwei verschiedene Flaggen die japanische Flagge und die deutsche Flagge — nur mit CSS-Gradients.
 
 **Japanische Flagge**
 
