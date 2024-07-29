@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: beige;
+    }
+
+    .flag {
+      width: 500px;
+      height: 300px;
+      border: 2px solid black;
+      margin-bottom: 20px;
+    }
+
+    .germany {
+      background: linear-gradient(
+        to bottom,
+        #000000 33.33%,
+        #ff0000 33.33%,
+        #ff0000 66.66%,
+        #ffcc00 66.66%
+      );
+    }
+    .japan {
+      background: radial-gradient(circle at center, #d30045 30%, white 31%);
+    }
+  </style>
+  <body>
+    <div>
+      <div class="flag germany"></div>
+      <div class="flag japan"></div>
+    </div>
+  </body>
+</html>
