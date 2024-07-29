@@ -7,7 +7,7 @@
 **Japanische Flagge**
 
 Verwende eine radialen Verlauf (radial-gradient), um die japanische Flagge zu erstellen.
-Die Flagge soll einen weißen Hintergrund und einen roten Kreis in der Mitte.
+Die Flagge soll einen weißen Hintergrund und einen roten Kreis in der Mitte haben.
 Der Durchmesser des roten Kreises soll ungefähr ein Drittel der Höhe der Flagge betragen und exakt in der Mitte positioniert sein.
 
 **Deutsche Flagge**
